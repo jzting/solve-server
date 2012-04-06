@@ -1,0 +1,4 @@
+uploads
+scratch
+*.pyc
+.DS_Store
